@@ -168,3 +168,7 @@ C:\Users\Sami\Documents\Mobile GPS and camera\obj\Debug\Assembly-CSharp.csproj.C
 C:\Users\Sami\Documents\Mobile GPS and camera\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\Sami\Documents\Mobile GPS and camera\obj\Debug\Assembly-CSharp.dll
 C:\Users\Sami\Documents\Mobile GPS and camera\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Sami\Documents\Gittest\secret_keplers\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Sami\Documents\Gittest\secret_keplers\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sami\Documents\Gittest\secret_keplers\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sami\Documents\Gittest\secret_keplers\obj\Debug\Assembly-CSharp.pdb
